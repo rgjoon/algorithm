@@ -8,7 +8,7 @@ public class QuardTree {
 			mCount = 0;
 		}
 		
-		int next() {
+		public int next() {
 			return mCount++;
 		}
 	}
